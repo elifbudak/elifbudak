@@ -13,13 +13,18 @@ I work across data, backend, and frontend layers to deliver clean, maintainable,
 🌍 Comfortable working across the stack and collaborating on end-to-end systems
 
 
-## 🛠️ Technologies & Tools
+## 🛠 Technologies & Tools
 
-**Frontend**: React, React Native, JavaScript, TypeScript, HTML, CSS
-**Backend**: Node.js, Java, Spring Boot, PostgreSQL
+**Frontend:** React, React Native, JavaScript, TypeScript, HTML, CSS  
+
+**Backend:** Node.js, Java, Spring Boot, PostgreSQL  
+
 **Data Engineering:** SQL, Azure Synapse, Azure Data Lake (ADLS Gen2), ETL / ELT, Parquet, Data Modeling  
-**Other**: Git, GitHub, REST APIs, Tailwind CSS, Agile / Scrum
+
 **Programming:** Python  
+
+**Other:** Git, GitHub, REST APIs, Tailwind CSS, Agile / Scrum
+
 
 
 ## 🎓 Education & Training
