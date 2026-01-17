@@ -29,7 +29,6 @@ I work across data, backend, and frontend layers to deliver clean, maintainable,
   - React Native
   - Node.js Backend
 
----
 
 ## 🧠 Engineering Practices
 - Clean Code & **SOLID principles** in backend and data-oriented systems
