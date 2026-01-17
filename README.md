@@ -42,7 +42,13 @@ I work across data, backend, and frontend layers to deliver clean, maintainable,
 - State management and data flow best practices
 - **Agile / Scrum** workflows in cross-functional teams
 
-## 🌍 Languages
-- 🇹🇷 **Turkish** – Native
-- 🇬🇧 **English** – Professional working proficiency
+## 🌍 Tech Stack
+- <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,postgresql,html,css,javascript,typescript,git,github,tailwind,vscode,mssql" />
+</p>
+
+## 🔥 GitHub Streak
+
+![](https://nirzak-streak-stats.vercel.app/?user=elifbudak&theme=github_dark&hide_border=false)
+
 
