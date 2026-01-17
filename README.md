@@ -1,7 +1,7 @@
 ## Hi there I'm Elif Budak👋
-<h3 align="center" style="color:#1f6feb;">
-  Data Engineering | Fullstack Developer | Frontend Developer 
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Data+Engineer;React+%7C+React+Native+%7C+Node.js;+PostgreSQL;Clean+Code+Enthusiast;Lifelong+Learner" />
+</p>
 
 
 ## 👩‍💻 About Me
