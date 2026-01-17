@@ -43,7 +43,7 @@ I work across data, backend, and frontend layers to deliver clean, maintainable,
 - **Agile / Scrum** workflows in cross-functional teams
 
 ## 🌍 Tech Stack
-- <p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,postgresql,html,css,javascript,typescript,git,github,tailwind,vscode,mssql" />
 </p>
 
