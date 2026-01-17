@@ -51,4 +51,11 @@ I work across data, backend, and frontend layers to deliver clean, maintainable,
 
 ![](https://nirzak-streak-stats.vercel.app/?user=elifbudak&theme=github_dark&hide_border=false)
 
+## 🌐 Socials
+<p>
+  <a href="https://www.linkedin.com/in/elifbudaak" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
+
 
