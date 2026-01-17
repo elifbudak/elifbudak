@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Elif Budak 👋</h1>👋
+<h1 align="center">Hey there, I'm Elif Budak 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=700&lines=Data+Engineer;Fullstack+Developer;React+%7C+React+Native+%7C+Node.js;PostgreSQL;Clean+Code+Enthusiast;Lifelong+Learner" />
 </p>
